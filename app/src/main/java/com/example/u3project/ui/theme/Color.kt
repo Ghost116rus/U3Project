@@ -2,10 +2,15 @@ package com.example.u3project.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+//Light Theme
+val Grey50 = Color(0xFFF8F9FA)
+val Grey900 = Color(0xFF202124)
+val Grey700 = Color(0xFF5F6368)
+val Blue50 = Color(0xFFe3f2fd)
+val Blue100 = Color(0xFFbbdefb)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+//Dark Theme
+val White = Color(0xFFFFFFFF)
+val Grey100 = Color(0xFFF1F3F4)
+val Purple900 = Color(0xFF270151)
+val Purple700 = Color(0xFF4a148c)
